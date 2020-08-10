@@ -8,9 +8,14 @@ namespace TestProjectForGitHub
 {
     class TestMessage
     {
+        int c = 0;
         public string Msg()
         {
             return "Hello";
+        }
+        public void Add(int a,int b)
+        {
+            c = a + b;
         }
     }
 }
