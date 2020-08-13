@@ -11,7 +11,7 @@ namespace TestProjectForGitHub
         int c = 0;
         public string Msg()
         {
-            return "Hello World!!!";
+            return "Salom World!!!";
         }
         public void Add(int a,int b)
         {
