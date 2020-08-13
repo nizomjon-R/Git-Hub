@@ -15,7 +15,7 @@ namespace TestProjectForGitHub
         }
         public void Add(int a,int b)
         {
-            c = a / b;
+            c = a - b;
         }
     }
 }
